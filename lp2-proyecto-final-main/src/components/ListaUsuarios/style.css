@@ -1,0 +1,6 @@
+.lista-usuarios {
+    display: flex;
+    width: 90%;
+    border: 4px solid black;
+    border-radius: 1rem;
+}
